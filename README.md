@@ -4,7 +4,6 @@
        alt="Heidys Zuniga - DevOps Engineer">
 </p>
 
-
 ![Heidys Zuniga - DevOps Engineer](Banner%20DevOps%20em%20Nuvem%20Neon.png)
 
 # Heidys Zuniga
@@ -12,12 +11,6 @@
 ### DevOps Engineer | Cloud Infrastructure | Observability
 
 🇧🇷 Português | 🇺🇸 English
-
-[LinkedIn](https://www.linkedin.com/in/heidys-yuranis-zuniga-sanchez/) · [GitHub](https://github.com/zheidys1) · [Email](mailto:zheidys1@gmail.com)
-
----
-
-## 🇧🇷 Sobre mim
 
 [LinkedIn](https://www.linkedin.com/in/heidys-yuranis-zuniga-sanchez/) · [GitHub](https://github.com/zheidys1) · [Email](mailto:zheidys1@gmail.com)
 
