@@ -1,5 +1,5 @@
 # 👩‍💻 Heidys Zuniga
-### DevOps Engineer | Cloud Infrastructure | Observability
+###DevOps Engineer & Cloud Support Analyst
 
 🇧🇷 Português | 🇺🇸 English
 
