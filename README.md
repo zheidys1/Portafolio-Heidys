@@ -4,8 +4,6 @@
        alt="Heidys Zuniga - DevOps Engineer">
 </p>
 
-![Heidys Zuniga - DevOps Engineer](Banner%20DevOps%20em%20Nuvem%20Neon.png)
-
 # Heidys Zuniga
 
 ### DevOps Engineer | Cloud Infrastructure | Observability
